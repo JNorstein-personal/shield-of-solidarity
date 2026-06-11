@@ -1,12 +1,21 @@
 The Shield of Solidarity (Against Hate & Narrowmindedness)
+
 The Shield of Solidarity is a public-domain emblem created by Joshua Norstein in June 2026.
+
 It was created as a visible expression of allyship with communities that are frequently subjected to discrimination, exclusion, hatred, violence, or political persecution.
+
 The symbol is intended to communicate solidarity with LGBTQIA+ people, Black, Indigenous, and other People of Color (BIPOC), neurodivergent people, and others who experience marginalization or targeted hostility, while remaining open to anyone who shares its commitment to dignity, inclusion, and mutual respect.
+
 Inspired by LGBTQIA+ inclusion symbolism, BIPOC-inclusive Pride symbolism, and neurodiversity advocacy symbolism, the emblem was designed to communicate support, safety, solidarity, and conscientious participation in community while remaining permanently available for public use through an irrevocable CC0 public-domain dedication.
+
 Public Domain Status
+
 The symbol is dedicated to the public domain under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
+
 See LICENSE.txt for the complete dedication and trademark disclaimer.
-Repository Contents
+
+Repository Contents:
+
 shieldofsolidarity.svg
 shieldofsolidarity.png
 shieldofsolidarity_blackbackground.svg
@@ -16,8 +25,11 @@ README.md
 CREATOR_STATEMENT.md
 SYMBOL_HISTORY.md
 SYMBOL_CHARTER.md
+
 Use of the Symbol
+
 You may freely:
+
 Copy the symbol
 Share the symbol
 Modify the symbol
