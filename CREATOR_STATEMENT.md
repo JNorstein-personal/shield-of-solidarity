@@ -1,6 +1,6 @@
-Creator Statement
+# Creator Statement
 
-Why I Made This Symbol
+## Why I Made This Symbol
 
 My name is Joshua Norstein.
 
@@ -23,17 +23,15 @@ To be who I am, instead of merely how I present, I must be willing to make these
 
 The Shield of Solidarity (Against Hate & Narrowmindedness) is my attempt to do so.
 
-The Symbol
+## The Symbol
 
 The design combines elements drawn from symbolic traditions that have long represented communities whose dignity and humanity have often been challenged or denied.
 
 Its visual influences include:
 
-The Intersex-Inclusive Progress Pride Flag designed by Valentino Vecchietti, building upon the work of Daniel Quasar and Morgan Carpenter.
-
-The black and brown chevrons associated with the recognition and inclusion of Black, Indigenous, and other People of Color within broader movements for equality and justice.
-
-The rainbow infinity symbol associated with neurodiversity advocacy and autistic self-advocacy.
+- The Intersex-Inclusive Progress Pride Flag designed by Valentino Vecchietti, building upon the work of Daniel Quasar and Morgan Carpenter.
+- The black and brown chevrons associated with the recognition and inclusion of Black, Indigenous, and other People of Color within broader movements for equality and justice.
+- The rainbow infinity symbol associated with neurodiversity advocacy and autistic self-advocacy.
 
 The shield shape is intentional.
 
@@ -41,7 +39,7 @@ A shield is not a weapon. It is a symbol of protection; a ward against harm for 
 
 The symbol is not intended to speak on behalf of any community. It is intended to communicate a commitment to stand with them.
 
-Why It Is Public Domain
+## Why It Is Public Domain
 
 From the beginning, I knew I did not want this symbol to belong to me.
 
@@ -57,7 +55,7 @@ I do not want the symbol's future to depend upon me.
 
 If the symbol proves useful, meaningful, or inspiring to others, then it should remain available to them without restriction.
 
-An Invitation
+## An Invitation
 
 The Shield of Solidarity is offered in the hope that it may help people find one another, support one another, and recognize one another's commitment to dignity, inclusion, and mutual respect.
 
@@ -72,6 +70,18 @@ You are free to disagree with me.
 The symbol no longer belongs to me alone.
 
 Its future meaning will be shaped by the people and communities who choose to carry it forward.
+
+## A Note on Acknowledgements
+
+As indicated above, no attribution is required to to make use of the Shield of Solidarity.
+
+That being said, if you do choose to share the symbol, I would like to encourage you to preserve some reference to its origins and influences where possible.
+
+It is my hope that the symbol's history and purpose will remain accessible to those who encounter it in the future, and while I am altogether less concerned that my name should be credited, preserving and even reinforcing the legacy of the symbols and communities with which the shield is associated is very important to me, especially in this age of Generative AI clashing with the creator's rights to IP.
+
+Understanding where a symbol comes from helps to preserve the conversations, communities, and aspirations that gave rise to it.
+
+Thank you.
 
 — Joshua Norstein
 
