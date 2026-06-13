@@ -41,6 +41,20 @@ No permission is required.
 
 The creator does not claim trademark rights in the symbol and does not seek exclusive control over its use.
 
+## Attribution
+
+Because the Shield of Solidarity has been dedicated to the public domain under CC0 1.0 Universal, no attribution, permission, or notice is required for its use.
+
+However, attribution is welcomed and appreciated.
+
+When practical, users are encouraged to acknowledge the symbol's original creator and to provide a link to the project's repository or accompanying documentation.
+
+Such attribution helps preserve the symbol's history, communicate its purpose, and connect others with the broader context in which it was created.
+
+Suggested attribution:
+
+> Shield of Solidarity (Against Hate & Narrowmindedness), created by Joshua Norstein (2026). Dedicated to the public domain under CC0 1.0 Universal.
+
 ## Further Reading
 
 Different documents in this repository serve different purposes:
